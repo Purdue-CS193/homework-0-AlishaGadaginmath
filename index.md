@@ -1,3 +1,10 @@
+**Alisha Gadaginmath**
+1. I have been learning Indian Classical Dance for 13 years. 
+2. I have been playing field hokcey for 7 years.
+3. I know Java, Python, C++, HTML, JavaScript.
+
+_I hope to learn about a variety of tools that I will use in the professional setting in the future._
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
