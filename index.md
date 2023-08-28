@@ -1,3 +1,7 @@
+# Alisha's First CS193 Homework
+- I get to learn about tools that I will use in the professional world
+- I get to use GitHub!
+
 **Alisha Gadaginmath**
 1. I have been learning Indian Classical Dance for 13 years. 
 2. I have been playing field hokcey for 7 years.
